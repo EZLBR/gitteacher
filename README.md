@@ -1,0 +1,2 @@
+# gitteacher
+just learning git
